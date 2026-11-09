@@ -1,2 +1,0 @@
-python-telegram-bot>=20.7,<22
-Telethon>=1.34,<2
